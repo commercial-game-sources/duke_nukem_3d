@@ -1,6 +1,6 @@
 # Duke Nukem 3D source code
 
-Source code of Duke Nukem 3D, from the official release (page [here](https://legacy.3drealms.com/news/2003/04/duke_nukem_3d_s_4.html)).
+Source code of Duke Nukem 3D, from the official 3D Realms [page](https://legacy.3drealms.com/downloads.html).
 
 The Build engine source is [included](BuildEngine.zip), as in the original archive.
 
